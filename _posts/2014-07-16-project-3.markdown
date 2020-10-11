@@ -1,0 +1,15 @@
+---
+title: Queratina
+subtitle: Website Design
+layout: default
+modal-id: 3
+date: 2020-07-16
+img: queratina1.jpg
+thumbnail: queratina1.jpg
+alt: image-alt
+project-date: April 2020
+client: Start Bootstrap
+category: Web Development
+description: Así de bellas quedan nuestras Keratinas.
+
+---

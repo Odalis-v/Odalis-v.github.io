@@ -1,0 +1,13 @@
+---
+title: Color perfecto
+subtitle: Tinturado
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: colorperfecto.jpg
+thumbnail: colorperfecto.jpg
+alt: image-alt
+project-date: April 2020
+description: Si estás pensando en cambiar de color no dudes en buscarnos, nosotros te asesoramos:).
+
+---
